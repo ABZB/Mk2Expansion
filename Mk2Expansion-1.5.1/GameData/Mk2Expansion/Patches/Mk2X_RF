@@ -1,0 +1,70 @@
+@PART[mk2Servicebay]:NEEDS[RealFuels] {
+	MODULE {
+		name = ModuleFuelTanks
+		volume = 450
+		type = ServiceModule
+		}
+	}
+@PART[mk2_OMSpod]:NEEDS[RealFuels] {
+	MODULE {
+		name = ModuleFuelTanks
+		volume = 300
+		type = RCS
+		}
+	}
+@PART[mk2_InlineIntake]:NEEDS[RealFuels] {
+	MODULE {
+		name = ModuleFuelTanks
+		volume = 450
+		type = Fuselage
+		}
+	}
+@PART[mk2_HypersonicNose]:NEEDS[RealFuels] {
+	MODULE {
+		name = ModuleFuelTanks
+		volume = 4000
+		type = Fuselage
+		}
+	}
+@PART[mk2InverterFuselage]:NEEDS[RealFuels] {
+	MODULE {
+		name = ModuleFuelTanks
+		volume = 4000
+		type = Fuselage
+		}
+	}
+@PART[mk2_SupersonicNose]:NEEDS[RealFuels] {
+	MODULE {
+		name = ModuleFuelTanks
+		volume = 500
+		type = Fuselage
+		}
+	}
+@PART[mk2_SpadeTail]:NEEDS[RealFuels] {
+	MODULE {
+		name = ModuleFuelTanks
+		volume = 1000
+		type = Fuselage
+		}
+	}
+@PART[TunaCockpit]:NEEDS[RealFuels] {
+	MODULE {
+		name = ModuleFuelTanks
+		volume = 250
+		type = RCS
+		}
+	}
+@PART[mk2UST]:NEEDS[RealFuels] {
+	MODULE {
+		name = ModuleFuelTanks
+		volume = 1000
+		type = ServiceModule
+		}
+	}
+@PART[mk2625tricoupler]:NEEDS[RealFuels] {
+	MODULE {
+		name = ModuleFuelTanks
+		volume = 1000
+		type = Fuselage
+		}
+	}
